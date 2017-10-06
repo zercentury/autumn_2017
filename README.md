@@ -6,4 +6,20 @@ Group Leader：钱哲琦、曹骁威
 通过 [Pull requests](https://github.com/milLearningGroup/autumn_2017/pulls) 功能将完成日常的更新和维护，以及作业的审批流程。  
 请不要直接使用 Push 功能，即使后期将会给组内成员开放权限！
 
-# 大纲安排
+# Schedule and Syllabus
+来自于今年的暑期班课程与deeplearning.ai的深度学习课程  
+暑期班课程组织设计与管理： [@wolegechu](https://github.com/wolegechu)  
+
+内容会根据学习情况有一定的调整优化。
+
+| 时间   | 内容概要                                     | 相关材料 |
+| :--- | ---------------------------------------- | ---- |
+|      | **开始前的工作：**</br>  团队协作与文档写作</br>  提问的艺术</br>   Anaconda 与 Jupyter Notebook</br>  Python以及相关包入门 |      |
+|      | **图像表示：**</br>  矩阵、颜色空间</br>   图像特征：像素值、颜色直方图、梯度直方图、LBP</br>   作业：图像读写、特征提取</br></br> **回归：**</br>   算法：线性回归，线性回归+正则项（L1, L2）</br>   优化：梯度下降法</br>   测度：欧式距离、街区距离、范数、Loss</br>   作业：波士顿房价预测 |      |
+|      | **分类：**</br>   算法：k-NN, Logistic Regression, 决策树</br> 作业：</br>   MNIST 手写数字识别、CIFAR-10 图像分类</br>   采用第一周的特征 + 第二周的方法（多种组合，对比结果） |      |
+|      | **经典算法：**</br> 支撑向量机</br>   图像特征：SIFT, Visual BoW |      |
+|      | **无监督学习：**</br>   聚类：K-means, K-means++</br>   降维：PCA, ICA, ZCA, LLE, AE</br>   作业：客户聚类 |      |
+|      | **神经网络DNN&CNN：**</br>   概念：卷积, Pooling, Stride, Padding, Data Augmentation, Learning Rate, </br>Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss</br>   网络：LeNet, AlexNet, VGGnet, GoogLeNet, ResNet</br>   框架：[Keras](https://keras-cn.readthedocs.io/en/latest/)</br>   作业：mnist 数字序列识别 |      |
+|      | **神经网络提升：**</br>   神经网络的训练</br>   物体检测与分割</br>   卷积神经网络的可视化与理解</br>   训练卷机神经网络的工程技巧 </br>   论文阅读：[Deep Learning 推荐阅读论文（余宙）](https://github.com/milLearningGroup/cama_summer_school_2017/blob/master/Deep_Learning_Papers.pdf) |      |
+|      | **递归神经网络：**</br>   网络：RNN, LSTM          |      |
+
