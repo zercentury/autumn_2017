@@ -1,3 +1,5 @@
+
+
 # Github
 
 ***
@@ -22,10 +24,10 @@
 
 * 成功后对本地设置用户及用户邮箱 
 
-             ~~~
-  git config --global user.name "your_name"  
-  git config --global user.email "your_email@gmail.com"
-             ~~~
+         ​~~~
+       git config --global user.name "your_name"  
+       git config --global user.email "your_email@gmail.com"
+         ​~~~
 
 
 * 接下来对配置对应Github账号的SSH密钥
@@ -49,7 +51,7 @@
 
   ​
 
-  ![屏幕快照 2017-10-09 下午7.26.06](/Users/hunter/Desktop/屏幕快照 2017-10-09 下午7.26.06.png)
+  ![SSH添加](/Users/hunter/autumn_2017/start/img/Github_settings.png)
 
 ​                                                                       添加密钥
 
@@ -80,7 +82,7 @@
 
    此时已经成功将本地修改信息同步到远程仓库中，登陆Github中可以看到更新的内容，关于branch[^详细]。
 
-  [^详细]: branch用于仓库的切换
+[^详细]: branch用于仓库的切换
 
    
 
