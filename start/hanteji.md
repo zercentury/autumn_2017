@@ -51,7 +51,7 @@
 
   ​
 
-  ![SSH添加](/Users/hunter/autumn_2017/start/img/Github_settings.png)
+  ![SSH添加](./img/Github_settings.png)
 
 ​                                                                       添加密钥
 
