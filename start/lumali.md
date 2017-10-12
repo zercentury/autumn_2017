@@ -8,7 +8,7 @@
 
 我的[Github地址](https://github.com/Luma123)
 
-## 1.目录<span id="jump">
+## <h id="1">1.目录</h>
 
 > ​    (1).git
 
@@ -69,4 +69,4 @@ int main ()
 | ---- | ---- |
 | 李禄马  | 在线   |
 
-跳转到[目录](#jump)
+跳转到[目录](#1)
