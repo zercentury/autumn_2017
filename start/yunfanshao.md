@@ -62,7 +62,7 @@ Git 是一款免费、开源的分布式版本控制系统, 当然他是由Linux
 
 git项目仓库示意图：
 
-![Git project](C:/Users/syf/Desktop/Git project.png)
+![Git project](img/Git%20project.png)
 
 根据上图，我们可以更好地理解下面两个命令。
 
