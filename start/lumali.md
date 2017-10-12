@@ -8,7 +8,7 @@
 
 我的[Github地址](https://github.com/Luma123)
 
-## 1.目录{#mulu}
+## 1.目录<span id="jump">
 
 > ​    (1).git
 
@@ -16,7 +16,7 @@
 
 ***
 
-## 2.内容{#neirong}
+## 2.内容
 
 ## (1).git
 
@@ -57,7 +57,6 @@ int main ()
     return 0;
 
 }
-
 ```
 
 ​	
@@ -70,6 +69,4 @@ int main ()
 | ---- | ---- |
 | 李禄马  | 在线   |
 
-
-
-跳转到[目录](#mulu)
+跳转到[目录](#jump)
