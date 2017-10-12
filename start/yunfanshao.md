@@ -14,7 +14,7 @@ Github说到底是基于git的版本托管服务，也是全球最大的开源�
 
 当然2013年Github也曾遇到了地区性的不可抗力。
 
-![Github-history](C:/Users/syf/Desktop/Github-history.png)
+![Github-history](img/Github-history.png)
 
 ### 3.Github的基本功能
 
