@@ -1,10 +1,10 @@
-#技术报告
+#                             技术报告
 
 
 
 ​                                  *by李禄马*
 
-
+![头像](https://github.com/Luma123/liluma-/blob/master/touxiang/touxiang.jpg?raw=true"头像")
 
 我的[Github地址](https://github.com/Luma123)
 
