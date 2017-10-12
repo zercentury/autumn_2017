@@ -95,7 +95,7 @@ git项目仓库示意图：
 
 - `git clone git@github.com:Galileo-Bill/hello-world.git`
 
-![git clone git@github.com：xxxx](C:/Users/syf/Desktop/git clone git@github.com：xxxx.png)
+![git clone git@github.com：xxxx](img/git%20clone%20git%40github.com：xxxx.png)
 
 ​	把需要的项目克隆下来。
 
