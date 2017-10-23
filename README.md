@@ -1,16 +1,20 @@
-# camalab_2017autumn
+# MIL Learning Group 2017autumn
 Group Leader：钱哲琦、曹骁威  
 本页面将会持续维护直到学期末...  
 
 如果你有任何疑问，请善用 [Issues](https://github.com/milLearningGroup/autumn_2017/issues) 功能提问（当然它的功能不止于此）。  
+Issues已经添加模板，以帮助大家规范格式。  
+
 通过 [Pull requests](https://github.com/milLearningGroup/autumn_2017/pulls) 功能将完成日常的更新和维护，以及作业的审批流程。  
 请不要直接使用 Push 功能，即使后期将会给组内成员开放权限！
+
+**在线文档 [Autumn 2017 进度记录](https://544273239.docs.qq.com/1FGZ74TMB3W)**，学员可以查询相关信息，如果信息有误请及时通知。
 
 # Schedule and Syllabus
 来自于今年的暑期班课程与deeplearning.ai的深度学习课程  
 暑期班课程组织设计与管理： [@wolegechu](https://github.com/wolegechu)  
 
-内容会根据学习情况有一定的调整优化。
+后面的大纲内容会进行一定的调整，不会与暑期班完全相同，但它依旧是一个很好的参考大纲。  
 
 | 时间         | 内容概要                                     | 相关材料                      |
 | :--------- | ---------------------------------------- | ------------------------- |
